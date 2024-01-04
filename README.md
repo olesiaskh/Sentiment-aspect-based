@@ -9,4 +9,5 @@ Filter dataset to include only sentence-category-label columns, encode labels ('
 ## Training 
 Fine-tune a BERT model using different hyper parameters and save the best one (based on accuracy score).
 
-Note: the code is adapted by Olesia Khrapunova from a project from NLP course (MS in Data Science and Business Analytics, CentraleSupelec). The original code was written by Suiyan Liu, Alain Mikael Alafriz, Milind Bhatnagar and Olesia Khrapunova.
+<sup><sub>Note: the code is adapted by Olesia Khrapunova from a project from NLP course (MS in Data Science and Business Analytics, CentraleSupelec). The original code was written by Suiyan Liu, Alain Mikael Alafriz, Milind Bhatnagar and Olesia Khrapunova.</sub></sup>
+
